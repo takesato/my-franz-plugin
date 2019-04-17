@@ -7,3 +7,6 @@
 [submodule "scrapbox"]
 	path = scrapbox
 	url = https://github.com/YuheiNakasaka/franz-scrapbox.git
+[submodule "dynalist"]
+	path = dynalist
+	url = https://github.com/ktawaststjerna/recipe-dynalist.git
