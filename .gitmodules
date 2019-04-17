@@ -4,3 +4,6 @@
 [submodule "newsblur"]
 	path = newsblur
 	url = https://github.com/takesato/recipe-newsblur.git
+[submodule "scrapbox"]
+	path = scrapbox
+	url = https://github.com/YuheiNakasaka/franz-scrapbox.git
